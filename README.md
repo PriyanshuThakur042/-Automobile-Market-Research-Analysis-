@@ -17,7 +17,10 @@ An interactive and data-driven dashboard that helps consumers, analysts, and man
 - DAX for custom KPIs and measures
 
 ## Dataset used
-- <a href="https://docs.google.com/spreadsheets/d/1P2mB0Z4Gn9FyUBhj2cI443nRjnSgNx34/edit?usp=drive_link&ouid=101368825255311313144&rtpof=true&sd=true">Dataset</a>
+- <a href="https://docs.google.com/spreadsheets/d/13mYKdd4RbD22Nqy8ZFtMfxuIS07L96fO/edit?usp=sharing&ouid=102723834709767950360&rtpof=true&sd=true">Dataset</a>
+## Data Dictionary--
+- <a href="https://docs.google.com/spreadsheets/d/1JCKMRMuTwA9B89P8nWDJxSPgK-8cSBuz/edit?usp=sharing&ouid=102723834709767950360&rtpof=true&sd=true">Data Dictionary</a>
+
 
 ## Questions (KPIs)
 Which car model offers the highest number of preferred features?
@@ -33,7 +36,7 @@ Which car is best suited for adventure driving?
 Which car model is best for child safety features?
 Which car body type is most preferred by customers?
 
-- Dashboard Interaction <a href="https://drive.google.com/file/d/1iNr_zARwUvlmUNuA7G058vQQGCcDUULA/view?usp=drive_link">View Dashboard</a>
+- Dashboard Interaction <a href="https://drive.google.com/file/d/1mGfU_l5zXHDWVNbWMom4EOlW8d40Mfsh/view?usp=sharing">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
@@ -43,7 +46,7 @@ Which car body type is most preferred by customers?
 
 ## Dashboard
 
-![Screenshot (495)](https://drive.google.com/file/d/1iNr_zARwUvlmUNuA7G058vQQGCcDUULA/view?usp=drive_link)
+![Screenshot (495)](https://drive.google.com/file/d/1m5zwgLZDh5q2kYJMj-UxbO2vjwiVRT00/view?usp=sharing)
 
 
 
